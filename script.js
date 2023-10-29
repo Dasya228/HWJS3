@@ -201,6 +201,19 @@
 // console.log(myFunction('lorem ipsum dolor sit amet'))
 
 
+// price и discount
+// function  myFunction(price,discount,res){
+// if (price>=1){
+// discount = (price * discount)/100
+//     res = price - discount
+//     return `Из ${price} сомов скидка составит ${discount} сом, итого окончательная цена составить ${res} сом`
+// }else{
+//     return `Error`
+// }
+// }
+// console.log(myFunction(1523,26))
+// console.log(myFunction(6000,45))
+
 
 
 
